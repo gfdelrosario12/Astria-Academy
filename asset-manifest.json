@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Asteria-Academy/static/css/main.5a16c1d9.css",
+    "main.css": "/Asteria-Academy/static/css/main.c6fd7e20.css",
     "main.js": "/Asteria-Academy/static/js/main.a2591a33.js",
     "static/js/453.50a2e328.chunk.js": "/Asteria-Academy/static/js/453.50a2e328.chunk.js",
     "static/media/EI3.png": "/Asteria-Academy/static/media/EI3.46760def8599746179da.png",
@@ -60,12 +60,12 @@
     "static/media/Toilet.jpg": "/Asteria-Academy/static/media/Toilet.0580e53e3356e233f140.jpg",
     "static/media/ramps.jpg": "/Asteria-Academy/static/media/ramps.a0a74e14857358543a7b.jpg",
     "index.html": "/Asteria-Academy/index.html",
-    "main.5a16c1d9.css.map": "/Asteria-Academy/static/css/main.5a16c1d9.css.map",
+    "main.c6fd7e20.css.map": "/Asteria-Academy/static/css/main.c6fd7e20.css.map",
     "main.a2591a33.js.map": "/Asteria-Academy/static/js/main.a2591a33.js.map",
     "453.50a2e328.chunk.js.map": "/Asteria-Academy/static/js/453.50a2e328.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a16c1d9.css",
+    "static/css/main.c6fd7e20.css",
     "static/js/main.a2591a33.js"
   ]
 }
